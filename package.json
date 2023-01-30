@@ -1,0 +1,33 @@
+{
+  "name": "unit",
+  "version": "1.0.0",
+  "description": "unit-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFortnight/ajs-unit.git"
+  },
+  "keywords": [
+    "unit"
+  ],
+  "author": "thefortnight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFortnight/ajs-unit/issues"
+  },
+  "homepage": "https://github.com/TheFortnight/ajs-unit#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.1",
+    "jest": "^29.4.1"
+  },
+  "dependencies": {
+    "core-js": "^3.27.2"
+  }
+}
