@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uas3oqit7op9ndin?svg=true)](https://ci.appveyor.com/project/TheFortnight/ajs-unit)
